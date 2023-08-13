@@ -1,5 +1,4 @@
 # Patient Survival Prediction
- 
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -20,32 +19,19 @@
 
 
 
+## Description
 
+The **Patient Survival Prediction** project addresses the urgent need for quickly assessing a patient's overall health, a critical concern amplified during the COVID-19 pandemic when healthcare systems worldwide faced overwhelming patient loads. In many cases, Intensive Care Units (ICUs) lack access to verified medical histories for incoming patients, making it challenging to provide appropriate care. Patients arriving in distress or those unable to communicate due to confusion or unconsciousness might not be able to share information about underlying chronic conditions like heart disease, diabetes, or injuries. Additionally, transferring medical records can be time-consuming, especially when patients come from different medical providers or systems. Having insights into chronic conditions could significantly influence clinical decisions, enhance patient care, and ultimately lead to improved survival rates.
 
+## Problem Statement
 
+The main objective of this project is to predict the **hospital_death** binary variable. This variable serves as the target feature, and the task involves classifying it based on 84 other features. The classification process is conducted step by step, considering each day's task. The evaluation metric for this project is a combination of Accuracy and Area under the Receiver Operating Characteristic (ROC) curve, providing a comprehensive assessment of the model's performance.
 
+## Dataset
 
+The dataset used in this project serves as the foundation for predicting patient survival. It encompasses a wide range of features, totaling 84, along with the crucial **hospital_death** binary variable. The dataset source is provided in the accompanying files, offering valuable insights into patient characteristics and medical attributes that can aid in survival prediction.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Data Available:** **[Here](https://journals.lww.com/ccmjournal/Citation/2019/01001/33__THE_GLOBAL_OPEN_SOURCE_SEVERITY_OF_ILLNESS.36.aspx)**
 
 
 ## Project Structure
