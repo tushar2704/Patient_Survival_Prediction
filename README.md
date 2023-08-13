@@ -44,7 +44,7 @@ The project repository is organized as follows:
 ├── README.md           <- README .
 ├── notebooks           <- Folder containing the final reports/results of this project.
 │   │
-│   └── Higgs Boson Event Detection.py   <- Final notebook for the project.
+│   └── patient_survival_prediction.py   <- Final notebook for the project.
 ├── reports            <- Folder containing the final reports/results of this project.
 │   │
 │   └── Report.pdf     <- Final analysis report in PDF.
